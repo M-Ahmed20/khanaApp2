@@ -1,1 +1,1 @@
-# khanaApp2
+# react-native-task-random-choice
